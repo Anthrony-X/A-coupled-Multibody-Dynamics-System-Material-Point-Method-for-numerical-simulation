@@ -1,10 +1,3 @@
-# Tracked Vehicle MBD-MPM
-
-This project couples a Project Chrono Vehicle tracked multibody model with a
-Taichi Material Point Method soil solver. The production workflow supports
-geostatic initialization, vehicle settling, driven motion, moving MPM windows,
-per-shoe contact feedback, restart states, and VTK output.
-
 ## Requirements
 
 - Windows and Python 3.10
@@ -23,7 +16,17 @@ Verify Project Chrono before a long run:
 ```powershell
 & "C:\Users\miniconda3\envs\mpm_taichi\python.exe" tools\smoke_project_chrono_core.py
 ```
+# Examples: Tracked Vehicle on soft soil; Snake robot walk on sand
 
+This project couples a Project Chrono Vehicle tracked and snake robot multibody model with a
+Taichi Material Point Method soil solver. 
+
+# Simulation Results
+Tracked Vehicle on soft soil
+https://github.com/user-attachments/assets/4fbf447b-050c-4229-94f5-ab6c2571a57d
+Snake robot walk on sand (reference: DOI: 10.1126/science.1255718  published by Science)
+[fig01_cmu_snake_model_boundary_schematic.tif](https://github.com/user-attachments/files/33222991/fig01_cmu_snake_model_boundary_schematic.tif)
+[算例2-渲染模型.tif](https://github.com/user-attachments/files/33222974/2-.tif)
 ## Run
 
 Open the launcher:
