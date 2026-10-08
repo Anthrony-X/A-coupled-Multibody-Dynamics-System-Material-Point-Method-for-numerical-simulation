@@ -16,7 +16,7 @@ Verify Project Chrono before a long run:
 ```powershell
 & "C:\Users\miniconda3\envs\mpm_taichi\python.exe" tools\smoke_project_chrono_core.py
 ```
-# Examples: Tracked Vehicle on soft soil; Snake robot walk on sand
+# Examples: Tracked Vehicle on soft soil; Snake robot walking on sand
 
 This project couples a Project Chrono Vehicle tracked and snake robot multibody model with a
 Taichi Material Point Method soil solver. 
