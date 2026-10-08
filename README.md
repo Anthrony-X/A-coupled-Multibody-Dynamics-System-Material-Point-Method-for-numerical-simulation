@@ -21,7 +21,7 @@ C:\Users\90522\miniconda3\envs\mpm_taichi\python.exe
 Verify Project Chrono before a long run:
 
 ```powershell
-& "C:\Users\90522\miniconda3\envs\mpm_taichi\python.exe" tools\smoke_project_chrono_core.py
+& "C:\Users\miniconda3\envs\mpm_taichi\python.exe" tools\smoke_project_chrono_core.py
 ```
 
 ## Run
@@ -35,7 +35,7 @@ Open the launcher:
 Run the complete Chrono-MPM workflow directly:
 
 ```powershell
-& "C:\Users\90522\miniconda3\envs\mpm_taichi\python.exe" `
+& "C:\Users\miniconda3\envs\mpm_taichi\python.exe" `
   .\main_multibody_tank_mpm.py `
   --stage all `
   --arch cuda `
@@ -58,7 +58,7 @@ passed explicitly.
 Use the same Project Chrono tracked-vehicle backend without MPM soil:
 
 ```powershell
-& "C:\Users\90522\miniconda3\envs\mpm_taichi\python.exe" `
+& "C:\Users\miniconda3\envs\mpm_taichi\python.exe" `
   .\main_tank_rigid_ground.py `
   --model .\ZTZ_96\multibody\ztz96_multibody_model.json `
   --out .\outputs\output_tank_rigid_ground
@@ -69,7 +69,7 @@ Use the same Project Chrono tracked-vehicle backend without MPM soil:
 Run all unit-cell models using the saved launcher configuration:
 
 ```powershell
-& "C:\Users\90522\miniconda3\envs\mpm_taichi\python.exe" `
+& "C:\Users\miniconda3\envs\mpm_taichi\python.exe" `
   .\constitutive_unit_cell_test.py `
   --config .\tank_mpm_launcher_config.json
 ```
@@ -80,7 +80,6 @@ inside the test script does not override values present in that file.
 ## Structure
 
 ```text
-MPM履带/
 |-- tank_mpm/                    core Python package
 |   |-- constitutive_models/     soil and water stress updates
 |   |-- chrono_vehicle.py        Project Chrono Vehicle backend
