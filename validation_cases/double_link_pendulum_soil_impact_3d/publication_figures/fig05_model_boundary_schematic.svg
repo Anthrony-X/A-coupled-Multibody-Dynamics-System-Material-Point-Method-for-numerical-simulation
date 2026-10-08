@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 496.1 278.9">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 142)  -->
+  <defs>
+    <style>
+      .st0 {
+        opacity: .6;
+        stroke-width: .3px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23 {
+        stroke-miterlimit: 1.2;
+      }
+
+      .st0, .st1, .st2, .st24, .st11, .st22 {
+        fill: none;
+      }
+
+      .st0, .st25, .st26, .st27, .st28, .st29 {
+        isolation: isolate;
+      }
+
+      .st0, .st16, .st20 {
+        stroke: #8d3f19;
+      }
+
+      .st1 {
+        stroke: #8a9aa3;
+        stroke-dasharray: 2.8 2.2;
+      }
+
+      .st1, .st7, .st11 {
+        stroke-width: .5px;
+      }
+
+      .st25 {
+        font-size: 6.2px;
+      }
+
+      .st25, .st26, .st27, .st28 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st25, .st26, .st28, .st29 {
+        fill: #202020;
+      }
+
+      .st26 {
+        font-size: 6.8px;
+      }
+
+      .st2 {
+        stroke-linecap: round;
+        stroke-width: 1.3px;
+      }
+
+      .st2, .st3, .st4, .st12 {
+        stroke: #222;
+      }
+
+      .st3, .st30 {
+        fill: #07b;
+      }
+
+      .st3, .st6, .st9, .st12 {
+        stroke-width: .6px;
+      }
+
+      .st4, .st5, .st15, .st16, .st17 {
+        stroke-width: .7px;
+      }
+
+      .st4, .st10, .st12 {
+        fill: #fff;
+      }
+
+      .st5 {
+        fill: #e5f3f8;
+      }
+
+      .st5, .st14, .st17 {
+        stroke: #07b;
+      }
+
+      .st5, .st15 {
+        fill-opacity: .7;
+      }
+
+      .st6, .st8, .st9, .st13, .st21 {
+        stroke: #333;
+      }
+
+      .st6, .st9 {
+        fill-opacity: .9;
+      }
+
+      .st6, .st21 {
+        fill: #6f7f87;
+      }
+
+      .st7 {
+        fill: #d7eaf2;
+        fill-opacity: .6;
+      }
+
+      .st7, .st18, .st19 {
+        stroke: #457487;
+      }
+
+      .st8 {
+        fill: #ececec;
+      }
+
+      .st8, .st18, .st19, .st20 {
+        stroke-width: .6px;
+      }
+
+      .st9, .st13 {
+        fill: #9a7b5a;
+      }
+
+      .st10 {
+        stroke-width: .4px;
+      }
+
+      .st10, .st22 {
+        stroke: #777;
+      }
+
+      .st11, .st23 {
+        stroke: #555;
+      }
+
+      .st13, .st21 {
+        stroke-width: .6px;
+      }
+
+      .st14 {
+        fill-opacity: .6;
+      }
+
+      .st14, .st17 {
+        fill: #bfe3f2;
+      }
+
+      .st14, .st23 {
+        stroke-width: .7px;
+      }
+
+      .st31 {
+        fill: #222;
+      }
+
+      .st15 {
+        fill: #f5e6ef;
+        stroke: #cc79a7;
+      }
+
+      .st32 {
+        fill: #555;
+      }
+
+      .st16 {
+        fill: #e73;
+        fill-opacity: .9;
+      }
+
+      .st27 {
+        fill: #4f4f4f;
+        font-size: 5.9px;
+      }
+
+      .st17 {
+        fill-opacity: .7;
+      }
+
+      .st33 {
+        fill: #efefef;
+      }
+
+      .st28 {
+        font-size: 7.4px;
+      }
+
+      .st18 {
+        fill: #8bc9e3;
+        fill-opacity: .5;
+      }
+
+      .st29 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 8.4px;
+        font-weight: 700;
+      }
+
+      .st19 {
+        fill: #75b8d5;
+        fill-opacity: .4;
+      }
+
+      .st20 {
+        fill: #f5c6a5;
+        fill-opacity: .9;
+      }
+
+      .st22 {
+        stroke-width: .9px;
+      }
+
+      .st23 {
+        fill: url(#fixedHatch);
+      }
+
+      .st34 {
+        fill: #cc79a7;
+      }
+    </style>
+    <pattern id="fixedHatch" x="0" y="0" width="3.7" height="3.7" patternTransform="translate(-4376.6 -7293.4) rotate(45) scale(.3 -.3)" patternUnits="userSpaceOnUse" viewBox="0 0 3.7 3.7">
+      <g>
+        <rect class="st24" width="3.7" height="3.7"/>
+        <rect class="st33" width="3.7" height="3.7"/>
+        <line class="st22" y1="3.7"/>
+      </g>
+    </pattern>
+  </defs>
+  <text class="st29" transform="translate(9.4 13)"><tspan x="0" y="0">(a)</tspan></text>
+  <text class="st28" transform="translate(25.5 13)"><tspan x="0" y="0">Three-dimensional coupled model at release</tspan></text>
+  <line class="st1" x1="158.2" y1="201.1" x2="283.6" y2="231.1"/>
+  <line class="st1" x1="283.6" y1="231.1" x2="236.2" y2="264.8"/>
+  <line class="st1" x1="236.2" y1="264.8" x2="110.8" y2="234.8"/>
+  <line class="st1" x1="110.8" y1="234.8" x2="158.2" y2="201.1"/>
+  <line class="st1" x1="158.2" y1="122" x2="283.6" y2="152"/>
+  <line class="st1" x1="283.6" y1="152" x2="236.2" y2="185.7"/>
+  <line class="st1" x1="236.2" y1="185.7" x2="110.8" y2="155.7"/>
+  <line class="st1" x1="110.8" y1="155.7" x2="158.2" y2="122"/>
+  <line class="st1" x1="158.2" y1="201.1" x2="158.2" y2="122"/>
+  <line class="st1" x1="283.6" y1="231.1" x2="283.6" y2="152"/>
+  <line class="st1" x1="236.2" y1="264.8" x2="236.2" y2="185.7"/>
+  <line class="st1" x1="110.8" y1="234.8" x2="110.8" y2="155.7"/>
+  <polygon class="st7" points="161.1 199 275.1 226.2 233.3 256 119.3 228.7 161.1 199"/>
+  <polygon class="st18" points="119.3 228.7 233.3 256 233.3 228.7 119.3 201.4 119.3 228.7"/>
+  <polygon class="st19" points="161.1 199 119.3 228.7 119.3 201.4 161.1 171.7 161.1 199"/>
+  <polygon class="st14" points="161.1 171.7 275.1 199 233.3 228.7 119.3 201.4 161.1 171.7"/>
+  <polygon class="st8" points="253.8 126.7 198.3 82.8 201.8 77.7 257.4 121.7 253.8 126.7"/>
+  <polygon class="st21" points="253.8 126.7 251.1 128.7 195.5 84.8 198.3 82.8 253.8 126.7"/>
+  <polygon class="st6" points="251.1 128.7 195.5 84.8 199.1 79.7 254.6 123.7 251.1 128.7"/>
+  <polygon class="st8" points="199.3 83.3 150.2 63.2 151.3 57.4 200.4 77.5 199.3 83.3"/>
+  <polygon class="st13" points="199.3 83.3 196.9 85 147.8 65 150.2 63.2 199.3 83.3"/>
+  <polygon class="st9" points="196.9 85 147.8 65 148.9 59.2 198 79.2 196.9 85"/>
+  <polygon class="st20" points="160.1 60.4 160.1 59.3 159.8 58.2 159.4 57.1 158.8 56.1 158.1 55.1 157.2 54.2 156.3 53.4 155.2 52.8 154.1 52.3 153 51.9 151.9 51.7 150.8 51.7 149.8 51.9 148.8 52.2 148 52.7 147.3 53.3 146.7 54.1 146.2 55 146 56 145.9 57 146 58.1 146.2 59.2 146.7 60.3 147.3 61.4 148 62.3 148.8 63.2 149.8 64 150.8 64.7 151.9 65.2 153 65.5 154.1 65.7 155.2 65.7 156.3 65.6 157.2 65.2 158.1 64.7 158.8 64.1 159.4 63.3 159.8 62.5 160.1 61.5 160.1 60.4"/>
+  <line class="st0" x1="160.1" y1="60.4" x2="153.2" y2="65.4"/>
+  <line class="st0" x1="158.1" y1="55.1" x2="151.1" y2="60.1"/>
+  <line class="st0" x1="153" y1="51.9" x2="146" y2="56.9"/>
+  <line class="st0" x1="148" y1="52.7" x2="141" y2="57.7"/>
+  <line class="st0" x1="145.9" y1="57" x2="138.9" y2="62"/>
+  <line class="st0" x1="148" y1="62.3" x2="141" y2="67.3"/>
+  <line class="st0" x1="153" y1="65.5" x2="146" y2="70.5"/>
+  <line class="st0" x1="158.1" y1="64.7" x2="151.1" y2="69.7"/>
+  <polygon class="st16" points="153.2 65.4 153.1 64.3 152.8 63.2 152.4 62.1 151.8 61.1 151.1 60.1 150.2 59.2 149.3 58.4 148.2 57.7 147.2 57.2 146 56.9 144.9 56.7 143.8 56.7 142.8 56.8 141.9 57.2 141 57.7 140.3 58.3 139.7 59.1 139.3 60 139 60.9 138.9 62 139 63.1 139.3 64.2 139.7 65.3 140.3 66.3 141 67.3 141.9 68.2 142.8 69 143.8 69.6 144.9 70.1 146 70.5 147.2 70.7 148.2 70.7 149.3 70.5 150.2 70.2 151.1 69.7 151.8 69.1 152.4 68.3 152.8 67.4 153.1 66.4 153.2 65.4"/>
+  <line class="st0" x1="153.2" y1="65.4" x2="146" y2="63.7"/>
+  <line class="st0" x1="151.1" y1="60.1" x2="146" y2="63.7"/>
+  <line class="st0" x1="146" y1="56.9" x2="146" y2="63.7"/>
+  <line class="st0" x1="141" y1="57.7" x2="146" y2="63.7"/>
+  <line class="st0" x1="138.9" y1="62" x2="146" y2="63.7"/>
+  <line class="st0" x1="141" y1="67.3" x2="146" y2="63.7"/>
+  <line class="st0" x1="146" y1="70.5" x2="146" y2="63.7"/>
+  <line class="st0" x1="151.1" y1="69.7" x2="146" y2="63.7"/>
+  <line class="st2" x1="258.1" y1="122.5" x2="250.4" y2="127.9"/>
+  <circle class="st3" cx="258.1" cy="122.5" r="2.5"/>
+  <circle class="st3" cx="250.4" cy="127.9" r="2.5"/>
+  <circle class="st4" cx="254.2" cy="125.2" r="2.2"/>
+  <line class="st2" x1="202.3" y1="78.7" x2="195" y2="83.8"/>
+  <circle class="st12" cx="202.3" cy="78.7" r="2.5"/>
+  <circle class="st12" cx="195" cy="83.8" r="2.5"/>
+  <circle class="st4" cx="198.7" cy="81.2" r="2.2"/>
+  <text class="st26" transform="translate(143.4 48.2)"><tspan x="0" y="0">C</tspan></text>
+  <path class="st24" d=""/>
+  <path class="st31" d="M241.3,114.9"/>
+  <path class="st24" d=""/>
+  <path class="st31" d="M186.7,76.4"/>
+  <text class="st25" transform="translate(262.1 127.9)"><tspan x="0" y="0">α1 = 150°</tspan></text>
+  <text class="st25" transform="translate(214.9 81.1)"><tspan x="0" y="0">α2 = 170°</tspan></text>
+  <rect class="st10" x="14" y="21.4" width="106" height="13"/>
+  <text class="st26" transform="translate(19.3 30.4)"><tspan x="0" y="0">Release state: ω1 = ω2 = 0</tspan></text>
+  <path class="st24" d=""/>
+  <path class="st31" d="M288.4,149.8"/>
+  <path class="st24" d=""/>
+  <path class="st32" d="M190.3,81.8"/>
+  <text class="st25" transform="translate(190.3 114.9)"><tspan x="0" y="0">L1 = 0.450 m</tspan></text>
+  <path class="st24" d=""/>
+  <path class="st32" d="M141.1,62.4"/>
+  <text class="st25" transform="translate(153 89.8)"><tspan x="0" y="0">L2 = 0.350 m</tspan></text>
+  <path class="st24" d=""/>
+  <path class="st32" d="M133.8,64.3"/>
+  <text class="st25" transform="translate(259.9 178.5)"><tspan x="0" y="0">H = 0.65 m</tspan></text>
+  <path class="st24" d=""/>
+  <path class="st32" d="M262.1,127.1"/>
+  <text class="st26" transform="translate(135.3 225.3) rotate(13.4)"><tspan x="0" y="0">MPM medium (water or sand)</tspan></text>
+  <line class="st1" x1="162.1" y1="138" x2="182.3" y2="142.9"/>
+  <text class="st26" transform="translate(185.7 145.9) rotate(13.4)"><tspan x="0" y="0">Background grid domain</tspan></text>
+  <polyline class="st11" points="254.2 125.2 282.7 113.1 288.3 113.1"/>
+  <text class="st26" transform="translate(288.3 111)"><tspan x="0" y="0">Fixed revolute joint O</tspan></text>
+  <polyline class="st11" points="198.7 81.2 213 60.4 218.6 60.4"/>
+  <text class="st26" transform="translate(218.6 58.3)"><tspan x="0" y="0">Revolute joint A</tspan></text>
+  <text class="st26" transform="translate(14 49.3)"><tspan x="0" y="0">Rigid hammer</tspan></text>
+  <path class="st24" d=""/>
+  <path class="st31" d="M192.4,206.5"/>
+  <path class="st24" d=""/>
+  <path class="st31" d="M164.8,208.5"/>
+  <path class="st24" d=""/>
+  <path class="st31" d="M173.9,184.3"/>
+  <text class="st29" transform="translate(319.3 13)"><tspan x="0" y="0">(b)</tspan></text>
+  <text class="st28" transform="translate(335.4 13)"><tspan x="0" y="0">MPM boundary conditions</tspan></text>
+  <polygon class="st23" points="371.2 136.3 467.1 159.2 431.9 184.2 336.1 161.3 371.2 136.3"/>
+  <polygon class="st5" points="336.1 161.3 431.9 184.2 431.9 161.3 336.1 138.3 336.1 161.3"/>
+  <polygon class="st15" points="371.2 136.3 336.1 161.3 336.1 138.3 371.2 113.4 371.2 136.3"/>
+  <polygon class="st17" points="371.2 113.4 467.1 136.3 431.9 161.3 336.1 138.3 371.2 113.4"/>
+  <polyline class="st11" points="401.6 137.3 489.2 102.3 483.6 102.3"/>
+  <text class="st26" transform="translate(426.5 100.1)"><tspan x="0" y="0">Free surface: z = 0</tspan></text>
+  <polyline class="st11" points="401.6 160.2 489.2 196.8 483.6 196.8"/>
+  <text class="st26" transform="translate(444.2 194.6)"><tspan x="0" y="0">Fixed bottom</tspan></text>
+  <text class="st25" transform="translate(440.3 204.5)"><tspan x="0" y="0">vx = vy = vz = 0</tspan></text>
+  <path class="st24" d=""/>
+  <path class="st30" d="M345.9,136.6l1.1,4.5,6.2-3.9-7.3-.6Z"/>
+  <path class="st30" d="M352.4,137.3"/>
+  <text class="st25" transform="translate(320.9 194.6)"><tspan x="0" y="0">x-normal rollers: vx = 0</tspan></text>
+  <path class="st24" d=""/>
+  <path class="st34" d="M387.7,168.2l3.3-3.3-6.6-3.3,3.3,6.6Z"/>
+  <path class="st34" d="M384.9,162.2"/>
+  <text class="st25" transform="translate(374.5 216.9)"><tspan x="0" y="0">y-normal rollers: vy = 0</tspan></text>
+  <text class="st27" transform="translate(110.8 264.8)"><tspan x="0" y="0">MPM material region: 0.80 × 0.60 × 0.20 m</tspan></text>
+  <text class="st27" transform="translate(111.2 273.7)"><tspan x="0" y="0">Background grid: 0.88 × 0.68 × 0.58 m</tspan></text>
+</svg>
