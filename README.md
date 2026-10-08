@@ -21,12 +21,16 @@ Verify Project Chrono before a long run:
 This project couples a Project Chrono Vehicle tracked and snake robot multibody model with a
 Taichi Material Point Method soil solver. 
 
-# Simulation Results
-Tracked Vehicle on soft soil
-https://github.com/user-attachments/assets/4fbf447b-050c-4229-94f5-ab6c2571a57d
-Snake robot walk on sand (reference: DOI: 10.1126/science.1255718  published by Science)
-[fig01_cmu_snake_model_boundary_schematic.tif](https://github.com/user-attachments/files/33222991/fig01_cmu_snake_model_boundary_schematic.tif)
-[算例2-渲染模型.tif](https://github.com/user-attachments/files/33222974/2-.tif)
+### Tracked Vehicle on Soft Soil
+
+https://github.com/user-attachments/assets/72b01eeb-eb2b-4fe0-98e5-b21626d8928a
+
+### Snake Robot Walking on Sand
+
+Reference: DOI: 10.1126/science.1255718, published in Science.
+<img width="2424" height="1438" alt="model" src="https://github.com/user-attachments/assets/57ef0ed1-e76b-43b5-8d4c-5a8f9e07aaf1" />
+<img width="4544" height="2138" alt="fig01_cmu_snake_model_boundary_schematic" src="https://github.com/user-attachments/assets/94d9cef8-c2fc-4cce-a661-060befd366bf" />
+
 ## Run
 
 Open the launcher:
